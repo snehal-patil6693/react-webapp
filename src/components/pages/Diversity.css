@@ -1,0 +1,253 @@
+
+.main-img{
+  position:absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width:100%;
+  max-width: 100%;
+  height:100%;
+  max-height: 100%;
+  margin-bottom: 100px;
+}
+.hluas-container-1{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 200px;
+    height:100%;
+    width:100%;
+    max-width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+}
+.hluas-container-2{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 100px;
+    height:100%;
+    width:100%;
+  max-width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.hluas-container-3{
+    margin-top: 150px;
+    padding-top: 100px;
+    background-color:#e6dede;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+    align-items: flex-start;
+    height:100%;
+    width:100%;
+  max-width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.hluas-container-5{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    height:100%;
+    width:100%;
+  max-width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+    
+    
+}
+.img-h2{
+  display: flex;
+  flex-direction: column;
+  justify-content:flex-end;
+  align-items: center;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 60%;
+  max-width: 100%;
+  height: 90%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.img-content-2{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+.img-content-3{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+
+.img-title{
+    font-size: 15px;
+    font-weight: 400;
+    margin-right: 250px;
+    margin-bottom: 20px;
+}
+.img-heading{
+  font-size: 50px;
+  font-weight: 50;
+  margin-right:270px;
+  margin-bottom: 40px;
+}
+.img-content{
+  margin-left: 100px;
+  margin-right: 20px; 
+  margin-bottom: 20px;
+  color: #252e48;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.img-h3-title{
+    font-size: 15px;
+    font-weight: 400;
+    margin-right: 340px;
+    margin-bottom: 20px;
+}
+.img-h6-title{
+    font-size: 15px;
+    font-weight: 400;
+    margin-right:310px;
+    margin-bottom: 20px;
+}
+.img-h3-heading{
+  font-size: 50px;
+  font-weight: 50;
+  margin-right: 250px;
+  margin-bottom: 40px;
+}
+.img-h6-heading{
+    font-size: 50px;
+    font-weight: 50;
+    margin-right:130px;
+    margin-bottom: 40px;
+  }
+.img-h3-content{
+  margin-right: 100px;
+  margin-left: 70px; 
+  margin-bottom: 20px;
+  color: #252e48;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.img-h4-title{
+    font-size: 15px;
+    font-weight: 400;
+    margin-right: 250px;
+    margin-bottom: 20px;
+}
+.img-h4-heading{
+  font-size: 50px;
+  font-weight: 50;
+  margin-right:18px;
+  margin-bottom: 40px;
+}
+
+.img-h5{
+  display: flex;
+  flex-direction: column;
+  justify-content:flex-end;
+  align-items: center;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 40%;
+  height: 80%;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  object-fit: cover;
+}
+.img-h5-title{
+    margin-top: 100px;
+    font-size: 15px;
+    font-weight: 400;
+    margin-right: 350px;
+    margin-left: 30px;
+    margin-top :100px;
+  
+}
+.img-h5-heading{
+  font-size: 40px;
+  font-weight: 50;
+  margin-left: 130px;
+  margin-right: 20px;
+  margin-bottom: 380px;
+}
+figcaption{
+    position: relative;
+    bottom: 2rem;
+    margin: 0 2rem;
+    color: #06c;
+    font-size: 70px;
+    font-weight: 800;
+    font-family: Inter,sans-serif;
+    text-align: left;
+    
+}
+.headline{
+    height:100%;
+    margin-left: 50px;
+    font-weight: 600;
+    margin-bottom: 2px;
+    margin-top:2px;
+}
+.main-slide-description{
+    height:100%;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 5px;
+    font-family: Inter,sans-serif;
+    color: #fff;
+    font-weight: 400;
+    text-align: left;
+}
+.btn--outline{
+    margin-top:2px;
+    
+    color:#fff;
+    margin-left: 120px;
+    margin-bottom: 40px;
+}
+.slide-button{
+    margin-top:2px;
+    margin-bottom: 300px;
+
+    height:100%;
+   
+    color:#fff;
+    
+   
+}
